@@ -1,9 +1,4 @@
-# charity_donation_app
-
-
-<br>
-
-
+## Charity Donation App
 
 <img src="donation app home.jpg" alt="ss" width="227" height="420">    <img src="donation app2.jpg" alt="ss" width="227" height="425">  <img src="donation app3.jpg" alt="ss" width="227" height="425">
 
